@@ -7,3 +7,4 @@ env.py
 *.txt
 spark-warehouse
 *.crc
+*.json
